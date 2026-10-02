@@ -4,7 +4,7 @@ public class CompareTwoNumbers {
         if (x == y) {
             System.out.println("EQUAL.");
         } else {
-            System.out.println(" are NOT EQUAL.");
+            System.out.println("NOT EQUAL.");
         }
     }
 
